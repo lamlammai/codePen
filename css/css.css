@@ -1,0 +1,111 @@
+*{
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+body{
+	width: 100%;
+	background-color: #ffffff;
+}
+header{
+	width: 100%;
+	height: 65px;
+}
+header nav.navbar{
+	width: 100%;
+	height: 65px;	
+	background-color: #1E1F26;
+}
+header nav.navbar a.text{
+	text-decoration: none;
+}
+header nav.navbar a.text h6{
+	color: #C4C4C6;
+	font-weight: 200;
+	margin-top: 5px;
+}
+header nav.navbar a.text h6:hover{
+	color: #ffffff;
+} 
+header nav.navbar a.text h5{
+	color: #ffffff;
+	margin-top: 13px;
+	margin-bottom: 0px;
+}
+main{
+	width: 97%;
+	background-color: #EEEEEE;
+	height: 100%;
+	margin: auto;
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+main div.text{
+	width: 450px;
+	height: 120px;
+	margin:  auto;
+	padding-top: 20px;
+}
+main div.text h1{
+	font-weight: bold;
+	text-align: center;
+}
+main div.text h6{
+	font-weight: 200;
+	text-align: center;
+}
+main div.pic{
+	width: 98%;
+	height: 600px;
+	background-color: #ffffff;
+	margin: auto;
+}
+main div.pic img{
+	width: 1000px;
+	height: 555px;
+	margin-left:100px;
+}
+main div.pic h6{
+	text-align: center;
+	font-weight: 200;
+	margin-top: 5px;
+	padding-top: 5px;
+}
+main div.text2{
+	width: 500px;
+	height: 100px;
+	margin: auto;
+	margin-top: 10px;
+	padding-top: 10px;
+}
+main div.text2 h5{
+	font-weight: bold;
+	text-align: center;
+	margin-top: 10px;
+}
+main div.ulli{
+    width: 600px;
+    height: 1050px;
+    margin: auto;
+}
+main ul li{
+    text-align: justify;
+    margin-top: 10px;
+}
+main div.ulli h6{
+	font-weight: 200;
+}
+main div.footer{
+	width: 100%;
+	height: 50px; 
+}
+main div.footer h5{
+	text-align: center;
+	font-weight: 600;
+}
+main div.footer h5 a{
+	color: #477CA7;
+}
+
+
+
