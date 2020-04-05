@@ -1,0 +1,74 @@
+*{
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+body{
+	width: 100%;
+	background-color: #ffffff;
+}
+header{
+	width: 100%;
+	height: 65px;
+}
+header nav.navbar{
+	width: 100%;
+	height: 65px;	
+	background-color: #1E1F26;
+}
+header nav.navbar a.text{
+	text-decoration: none;
+}
+header nav.navbar a.text h6{
+	color: #C4C4C6;
+	font-weight: 200;
+	margin-top: 5px;
+}
+header nav.navbar a.text h6:hover{
+	color: #ffffff;
+} 
+header nav.navbar a.text h5{
+	color: #ffffff;
+	margin-top: 13px;
+	margin-bottom: 0px;
+}
+main{
+	width: 100%;
+	height: 100%;
+	background-image: url('https://zicxa.com/hinh-anh/wp-content/uploads/2019/07/T%E1%BB%95ng-h%E1%BB%A3p-c%C3%A1c-h%C3%ACnh-%E1%BA%A3nh-background-%C4%91%E1%BA%B9p-nh%E1%BA%A5t-11.jpg');
+	/* background-size: 100%; */
+	/* background-repeat: no-repeat; */
+	background-color: pink;
+}
+main div.text{
+	width: 600px;
+	height: 100px;
+    margin: auto;
+    padding-top: 30px;
+}
+main div.text h1{
+	font-weight: 500;
+	text-align: center;
+	color: white;
+}
+main div.text h5{
+	font-weight: 200;
+	text-align: center;
+	color: white;
+}
+main form.form{
+	width: 700px;
+	height: 100%;
+	margin: auto;
+	margin-top: 20px;
+	background-color: #2B2A47;
+	border-radius: 3px;
+	padding: 5px;
+}
+main form.form div.form-group label{
+	font-size: 20px;
+	color:#EEEEEF;
+	/* margin: 5px; */
+	/* padding-top: 15px; */
+}
+
